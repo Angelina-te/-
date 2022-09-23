@@ -1,0 +1,15 @@
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/bin/Debug/net6.0/Проект 2 приветствие
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/bin/Debug/net6.0/Проект 2 приветствие.deps.json
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/bin/Debug/net6.0/Проект 2 приветствие.runtimeconfig.json
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/bin/Debug/net6.0/Проект 2 приветствие.dll
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/bin/Debug/net6.0/Проект 2 приветствие.pdb
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/obj/Debug/net6.0/Проект 2 приветствие.csproj.AssemblyReference.cache
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/obj/Debug/net6.0/Проект 2 приветствие.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/obj/Debug/net6.0/Проект 2 приветствие.AssemblyInfoInputs.cache
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/obj/Debug/net6.0/Проект 2 приветствие.AssemblyInfo.cs
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/obj/Debug/net6.0/Проект 2 приветствие.csproj.CoreCompileInputs.cache
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/obj/Debug/net6.0/Проект 2 приветствие.dll
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/obj/Debug/net6.0/refint/Проект 2 приветствие.dll
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/obj/Debug/net6.0/Проект 2 приветствие.pdb
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/obj/Debug/net6.0/Проект 2 приветствие.genruntimeconfig.cache
+/Users/nik/Documents/Упражнение 1/Проект 1_HelloConsole/Проект 2 приветствие/obj/Debug/net6.0/ref/Проект 2 приветствие.dll
